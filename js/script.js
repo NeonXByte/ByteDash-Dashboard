@@ -1,3 +1,4 @@
+
 // Chart.js example for Sales Chart
 const ctx = document.getElementById('salesChart').getContext('2d');
 const salesChart = new Chart(ctx, {
